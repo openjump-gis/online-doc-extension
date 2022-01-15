@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.openjump:OpenJUMP:2.0-main-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjump/OpenJUMP/2.0-main-SNAPSHOT/OpenJUMP-2.0-main-20220115.011801-95.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjump/OpenJUMP/2.0-main-SNAPSHOT/OpenJUMP-2.0-main-20220115.011801-95-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openjump/OpenJUMP/2.0-main-SNAPSHOT/OpenJUMP-2.0-main-20220115.011801-95-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
