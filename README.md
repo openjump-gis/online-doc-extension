@@ -10,9 +10,13 @@ An extension to access online documentation from OpenJUMP menu
 
 * OpenJUMP is distributed under the GNU General Public License version 2 (GPLv2)
 
+
 OpenJUMP User Mailing List: http://groups.google.com/group/openjump-users
+
 OpenJUMP Development Mailing List: https://lists.sourceforge.net/lists/listinfo/jump-pilot-devel
+
 OpenJUMP WIKI page: https://sourceforge.net/apps/mediawiki/jump-pilot/index.php?title=Main_Page
+
 -------------------------------------- 
 
 Giuseppe Aruta - GeoArbores Project (https://sourceforge.net/projects/opensit)
